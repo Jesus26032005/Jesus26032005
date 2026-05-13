@@ -1,149 +1,175 @@
 <div align="center">
 
-```
-███████╗ █████╗ ██████╗ ██████╗ ██╗  ██╗██╗███████╗██╗     
-╚══███╔╝██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██║██╔════╝██║     
-  ███╔╝ ███████║██║  ██║██║  ██║█████╔╝ ██║█████╗  ██║     
- ███╔╝  ██╔══██║██║  ██║██║  ██║██╔═██╗ ██║██╔══╝  ██║     
-███████╗██║  ██║██████╔╝██████╔╝██║  ██╗██║███████╗███████╗
-╚══════╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=120&section=header&animation=fadeIn" />
 
-[![Visitas](https://komarev.com/ghpvc/?username=zaddkiel&color=00b4d8&style=flat-square&label=visitas)](https://github.com/zaddkiel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaddkiel-de-jesus-martinez-alor-b30a5b382/)
-[![Estado](https://img.shields.io/badge/estado-construyendo%20cosas%20chidas-00b4d8?style=flat-square)](https://github.com/zaddkiel)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Zaddkiel+Mart%C3%ADnez+Alor;Dev+%7C+Builder+%7C+Problem+Solver" alt="Typing SVG" /></a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaddkiel-de-jesus-martinez-alor-b30a5b382/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaddkiel)
+[![Profile Views](https://komarev.com/ghpvc/?username=zaddkiel&color=00b4d8&style=for-the-badge&label=VISITAS)](https://github.com/zaddkiel)
 
 </div>
 
----
+<br/>
 
-```python
-class Zaddkiel:
-    def __init__(self):
-        self.nombre     = "Zaddkiel de Jesús Martínez Alor"
-        self.rol        = "Desarrollador en formación · Builder · Problem Solver"
-        self.ubicacion  = "México 🇲🇽"
-        self.linkedin   = "zaddkiel-de-jesus-martinez-alor-b30a5b382"
+```typescript
+const zaddkiel = {
+  nombre:    "Zaddkiel de Jesús Martínez Alor",
+  ubicacion: "México 🇲🇽",
+  rol:       "Full Stack Developer en formación",
+  enfoque:   ["Visión artificial", "Desarrollo web", "Apps móviles"],
 
-        self.lenguajes  = ["Python", "JavaScript", "TypeScript", "Java", "Kotlin", "SQL"]
-        self.frontend   = ["HTML", "CSS", "React", "React Native (aprendiendo)"]
-        self.python_libs= [
-            "Tkinter", "ttkbootstrap", "CustomTkinter",
-            "OpenCV", "Pillow", "NumPy",
-            "TensorFlow", "PyTorch",
-            "websockets", "OpenAI SDK"
-        ]
-        self.backend    = ["Node.js", "REST APIs"]
-        self.db         = ["SQL", "MySQL"]
+  lenguajes: ["Python", "TypeScript", "JavaScript", "Java", "Kotlin", "SQL"],
+  frontend:  ["React", "HTML", "CSS", "React Native ← aprendiendo"],
+  backend:   ["Node.js", "REST APIs", "WebSockets"],
+  ia_cv:     ["TensorFlow", "PyTorch", "OpenCV", "NumPy", "Pillow"],
+  gui:       ["Tkinter", "ttkbootstrap", "CustomTkinter"],
 
-    def objetivo(self):
-        return "Construir software que resuelva problemas reales — bonito, funcional y con propósito."
-
-    def fun_fact(self):
-        return "Aprendo mejor rompiendo cosas y arreglándolas 🔧"
-
-me = Zaddkiel()
-print(me.objetivo())
+  construyendo: "proyectos que resuelven problemas reales",
+  motto:        "Aprendo mejor rompiendo cosas y arreglándolas 🔧",
+};
 ```
 
----
+<br/>
 
-## `~/stats` — Números que no mienten
+## ⚡ Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zaddkiel&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&border_color=30363d&rank_icon=percentile&show=prs_merged,prs_merged_percentage&include_all_commits=true&hide_border=false" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaddkiel&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_color=30363d&langs_count=8&hide_border=false" />
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=00b4d8)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zaddkiel&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&border_color=30363d&rank_icon=percentile&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide_border=false&card_width=420" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaddkiel&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_color=30363d&langs_count=8" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=zaddkiel&theme=tokyonight&background=0d1117&border=30363d&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=c9d1d9" />
+<img src="https://streak-stats.demolab.com/?user=zaddkiel&theme=tokyonight&background=0d1117&border=30363d&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=c9d1d9&dates=8b949e" width="50%"/>
 
 </div>
 
----
+<br/>
 
-## `~/stack` — Herramientas de batalla
+## 🚀 Proyectos Destacados
 
 <div align="center">
 
-**Lenguajes**
+<table>
+<tr>
+<td width="50%">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00b4d8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=f89820)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7f52ff)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+### 🎮 Zalon Unión
+[![Repo](https://img.shields.io/badge/repo-30363d?style=flat-square&logo=github)](https://github.com/zaddkiel)
+![Estado](https://img.shields.io/badge/estado-en%20desarrollo-00b4d8?style=flat-square)
 
-**Frontend & Mobile**
+Plataforma de apoyo y comunidad entre **streamers**. Conecta creadores de contenido para colaborar, crecer y apoyarse mutuamente.
 
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
-![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=00b4d8)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)
+`React` `Node.js` `SQL` `WebSockets`
 
-**Python Arsenal**
+</td>
+<td width="50%">
 
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5c3ee8)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ee4c2c)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pillow](https://img.shields.io/badge/Pillow-0d1117?style=for-the-badge&logo=python&logoColor=00b4d8)
-![Tkinter](https://img.shields.io/badge/Tkinter-0d1117?style=for-the-badge&logo=python&logoColor=ffde57)
+### 🗺️ OrienTec
+[![Repo](https://img.shields.io/badge/repo-30363d?style=flat-square&logo=github)](https://github.com/zaddkiel)
+![Estado](https://img.shields.io/badge/estado-en%20progreso-f59e0b?style=flat-square)
+
+**Mapa interactivo** de escuela para orientar a estudiantes de nuevo ingreso. Navega instalaciones fácilmente desde cualquier dispositivo.
+
+`React` `Maps API` `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔬 PDI — Detector de Moho
+[![Repo](https://img.shields.io/badge/repo-30363d?style=flat-square&logo=github)](https://github.com/zaddkiel)
+![Estado](https://img.shields.io/badge/estado-experimental-7f52ff?style=flat-square)
+
+Sistema de **visión artificial** para detectar moho en imágenes usando deep learning. Procesamiento de imagen en tiempo real.
+
+`Python` `OpenCV` `TensorFlow` `PyTorch`
+
+</td>
+<td width="50%">
+
+### 💡 Próximamente...
+![Estado](https://img.shields.io/badge/estado-planeando-8b949e?style=flat-square)
+
+Siempre construyendo algo nuevo. Sígueme para ver qué viene.
+
+`React Native` `Kotlin` `Mobile`
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## `~/projects` — Lo que estoy construyendo
+## 🏅 Certificaciones
 
-| Proyecto | Stack | Descripción | Estado |
+<div align="center">
+
+| 🎓 Certificación | 🏛️ Emisor | 📅 Año | 🔗 |
 |---|---|---|---|
-| 🎮 **Zalon Unión** | React · Node.js · SQL | Plataforma de apoyo entre streamers — comunidad, colaboración y networking | 🚧 En desarrollo |
-| 🗺️ **OrienTec** | React · Maps API | Mapa interactivo de escuela para orientación de estudiantes nuevos | 🔄 En progreso |
-| 🔬 **PDI — Detector de Moho** | Python · OpenCV · TensorFlow/PyTorch | Sistema de visión artificial para detección de moho en imágenes | 🧪 Experimental |
+| **Python Essentials 1** | Cisco Networking Academy | 2024 | ✅ Verificado |
+| **Programación en C** | — | 2024 | ✅ Verificado |
+| **Java** | — | 2024 | ✅ Verificado |
 
----
-
-## `~/certs` — Certificaciones
-
-<div align="center">
-
-| Certificación | Emisor | Año |
-|---|---|---|
-| 🐍 **Python Essentials 1** | Cisco Networking Academy | 2024 |
-| ☕ **Programación en C** | — | 2024 |
-| ☕ **Java** (en proceso de agregar) | — | — |
-
-> 📄 Certificados verificables disponibles en mi [LinkedIn](https://www.linkedin.com/in/zaddkiel-de-jesus-martinez-alor-b30a5b382/)
+> Todos los certificados disponibles en mi [**LinkedIn**](https://www.linkedin.com/in/zaddkiel-de-jesus-martinez-alor-b30a5b382/)
 
 </div>
 
----
+<br/>
 
-## `~/activity` — Contribuciones
+## 📈 Actividad
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaddkiel&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&hide_border=true)](https://github.com/zaddkiel)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaddkiel&bg_color=0d1117&color=00b4d8&line=00b4d8&point=c9d1d9&area=true&area_color=00b4d820&hide_border=true&radius=6)](https://github.com/zaddkiel)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-```bash
-$ git log --oneline --author="Zaddkiel" | wc -l
-# cada línea = una iteración hacia mejor código
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=80&section=footer&animation=fadeIn" />
 
-**¿Tienes un proyecto interesante? Hablemos.**
+**¿Tienes un proyecto o idea interesante? Conectemos.**
 
-[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaddkiel-de-jesus-martinez-alor-b30a5b382/)
+[![LinkedIn](https://img.shields.io/badge/Hablemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaddkiel-de-jesus-martinez-alor-b30a5b382/)
+
+<sub>Construido con 💻 y demasiado café ☕ en México 🇲🇽</sub>
 
 </div>
