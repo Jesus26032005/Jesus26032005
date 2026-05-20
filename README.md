@@ -1,61 +1,144 @@
-# Zaddkiel Martinez | Software Developer
+<div align="center">
 
-Estudiante de ingenieria en computacion (ESCOM/IPN) enfocado en:
+```
+███████╗██╗   ██╗██╗     ██╗         ███████╗████████╗ █████╗  ██████╗██╗  ██╗
+██╔════╝██║   ██║██║     ██║         ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
+█████╗  ██║   ██║██║     ██║         ███████╗   ██║   ███████║██║     █████╔╝ 
+██╔══╝  ██║   ██║██║     ██║         ╚════██║   ██║   ██╔══██║██║     ██╔═██╗ 
+██║     ╚██████╔╝███████╗███████╗    ███████║   ██║   ██║  ██║╚██████╗██║  ██╗
+╚═╝      ╚═════╝ ╚══════╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+```
 
-- Backend y APIs (FastAPI, auth, SQL)
-- Frontend (React)
-- Python para vision por computadora y procesamiento de imagenes
-- Machine Learning / NLP (practicas y experimentos)
+### `< Full Stack Developer />` · Construyendo el futuro, una línea a la vez
 
-## Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Clean+Code+Enthusiast+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-- Lenguajes: Python, JavaScript, C
-- Backend: FastAPI, JWT, SQLModel/SQLAlchemy
-- Frontend: React, Vite, Tailwind
-- Datos/IA: scikit-learn, spaCy, NLTK
-- Vision: OpenCV, NumPy
+</div>
 
-## Proyectos destacados
+---
 
-### BitCafe API (FastAPI)
+## `whoami`
 
-Backend para gestionar una cafeteria: autenticacion, usuarios, categorias, productos, carrito, pedidos y pagos.
+```bash
+$ cat developer.json
+```
 
-- Repo: https://github.com/Jesus26032005/api-test
-- Stack: FastAPI, SQLModel/SQLAlchemy, JWT (JOSE), Passlib (Argon2)
-- Extras: integracion de pagos (Mercado Pago) y manejo de imagenes estaticas
+```json
+{
+  "name": "Tu Nombre",
+  "role": "Full Stack Developer",
+  "location": "México 🇲🇽",
+  "status": "Open to work",
+  "passion": "Transformar ideas en productos reales",
+  "currently_learning": ["DevOps", "Cloud Architecture", "AI/ML"],
+  "ask_me_about": ["Web Dev", "APIs", "Databases", "System Design"],
+  "fun_fact": "Debugo en producción y no me tiembla la mano 🔥"
+}
+```
 
-### Union Zalor (React + Vite)
+---
 
-Sitio web para comunidad con navegacion, secciones publicas y panel admin simulado (localStorage).
+## `> tech_stack --list-all`
 
-- Proyecto local: `Documentos/Union Zalor/union-zalor`
-- Stack: React 18, React Router, Vite, Tailwind, Framer Motion
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Procesamiento de Imagenes (Tkinter + OpenCV)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-Aplicacion de escritorio (MVC) con operaciones, filtros, segmentacion, histogramas y analisis.
+### 🗄️ Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- Proyecto local: `Documentos/CuartoSemestre/Procesamiento De Imagenes/Codigos/PracticasUnidas`
-- Stack: Python, Tkinter/ttkbootstrap, OpenCV, NumPy, Matplotlib, SciPy
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### OrientaTEC (PHP + JS + SQL)
+### 🛠️ Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Sistema web con base de datos y scripts SQL.
+---
 
-- Proyecto local: `Documentos/Proyecto Orientatec`
-- Nota: varios archivos `.php`/`.js` en esta copia local parecen estar corruptos (contienen solo bytes NUL). Los scripts SQL estan presentes en `ScriptsDB/`.
+## `> stats --global`
 
-## Repos de practicas (universidad)
+<div align="center">
 
-- Teoria de computo: https://github.com/Jesus26032005/Teoria-computo
-- Aprendizaje maquina: https://github.com/Jesus26032005/Aprendizaje-maquina
-- Tecnologias de lenguaje natural: https://github.com/Jesus26032005/Tecnologias-de-lenguaje-natural
-- Algoritmos bioinspirados: https://github.com/Jesus26032005/Algoritmos-bioinspirados
-- Vision artificial: https://github.com/Jesus26032005/Vision-artificial
-- Fundamentos de IA: https://github.com/Jesus26032005/Fundamentos-de-Inteligencia-Artificial
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
 
-## Contacto
+</div>
 
-- GitHub: https://github.com/Jesus26032005
-- Repo: https://github.com/Jesus26032005/api-test
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `> projects --featured`
+
+<div align="center">
+
+[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff)](https://github.com/TU_USUARIO/NOMBRE_REPO_1)
+[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff)](https://github.com/TU_USUARIO/NOMBRE_REPO_2)
+
+</div>
+
+---
+
+## `> activity --graph`
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `> connect --with-me`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://tu-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║  "Primero hazlo funcionar, luego hazlo rápido,       ║
+║   luego hazlo hermoso."                              ║
+║                                    — The Dev Way     ║
+╚══════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=00d9ff&style=flat-square&label=Profile+Views)
+
+⚡ *Última actualización: automática vía GitHub Actions*
+
+</div>
