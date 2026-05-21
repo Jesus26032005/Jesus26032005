@@ -1,87 +1,67 @@
+# Zaddkiel Martinez
 
-# 👋 ¡Hola! Soy Zaddkiel De Jesús Martínez Alor
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=0B0B0B)](https://react.dev/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
 
-### 🚀 Software Developer | Estudiante de Ingeniería en Inteligencia Artificial (ESCOM - IPN)
+Desarrollador enfocado en **Python y backend**. Construyo APIs REST con FastAPI (auth + SQL), apps de escritorio (PyQt6/Tkinter) y proyectos de vision por computadora (OpenCV).
 
-Soy un desarrollador apasionado por la creación de arquitecturas escalables, la inteligencia artificial y el rendimiento del software. Actualmente curso la carrera de Ingeniería en Inteligencia Artificial en ESCOM-IPN, con planes de movilidad académica hacia FIME-UANL. Me especializo en el diseño de APIs robustas, interfaces dinámicas y la integración de modelos de aprendizaje automático.
+- CDMX, Mexico
+- GitHub: https://github.com/Jesus26032005
+- LinkedIn: https://www.linkedin.com/in/zaddkiel-de-jesus-martinez-alor-b30a5b382/
+- Email: zaddkielma@gmail.com
 
-Trabajo diariamente en entornos Linux (Arch Linux + Hyprland), lo que me ha dado un fuerte enfoque en la personalización, la automatización y el control total sobre mi flujo de desarrollo.
+## Stack
 
----
+- Backend: FastAPI, JWT, SQLModel/SQLAlchemy, MySQL
+- Frontend: React, Vite, Tailwind
+- Desktop: PyQt6, Tkinter (ttkbootstrap)
+- Vision/Datos/IA: OpenCV, NumPy, pandas, scikit-learn, spaCy, NLTK
+- Lenguajes: Python, Java, JavaScript, PHP, SQL
 
-## 🛠️ Tecnologías y Herramientas
+## Proyectos destacados
 
-**Lenguajes de Programación:** [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+### BitCafe API (FastAPI)
 
-**Backend & Frontend:** [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+API para gestionar una cafeteria: usuarios, categorias, productos, carrito, pedidos y pagos.
 
-**Inteligencia Artificial & Datos:** [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)  
-*(Modelos Generativos, spaCy, NLTK)*
+- Repo: https://github.com/Jesus26032005/api-test
+- Stack: FastAPI, SQLModel/SQLAlchemy, JWT (JOSE), Passlib, Mercado Pago
 
-**Entorno & Herramientas:** [![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+### BitCafe Cajero (PyQt6)
 
----
+App de caja (desktop) integrada con la API: dashboard, pedidos, menu/productos, ajustes.
 
-## 💻 Proyectos Destacados
+- Estado: proyecto local
+- Stack: Python, PyQt6, consumo de API con Bearer token
 
-### ☕ [BitCafe API](https://github.com/Jesus26032005/api-test)
-Backend para la gestión integral de una cafetería.
-* **Stack:** FastAPI, SQLModel/SQLAlchemy, JWT (JOSE), Passlib (Argon2).
-* **Características:** Autenticación, gestión de carritos de compra, pedidos, manejo de imágenes estáticas e integración de pagos con Mercado Pago.
+### Procesamiento de Imagenes (Tkinter + OpenCV)
 
-### 🤖 Proyecto Mark-XXXIX *(En Desarrollo)*
-Proyecto avanzado estructurado en Python enfocado en la implementación e integración de librerías de IA.
-* **Stack:** Python, Modelos Generativos (Google GenAI).
+Aplicacion de escritorio (MVC) con filtros, segmentacion, histogramas y analisis.
 
-### 🖼️ Procesamiento de Imágenes (Desktop App)
-Aplicación de escritorio para operaciones visuales avanzadas estructurada bajo el patrón de arquitectura **MVVM**.
-* **Stack:** Python, Tkinter (ttkbootstrap), OpenCV, NumPy, Matplotlib, SciPy.
-* **Características:** Aplicación de filtros, segmentación y análisis profundo de histogramas.
+- Estado: proyecto local
+- Stack: Python, Tkinter/ttkbootstrap, OpenCV, NumPy
 
-### 🌐 Union Zalor
-Sitio web interactivo para comunidad, con secciones públicas y panel de administración simulado.
-* **Stack:** React 18, React Router, Vite, Tailwind CSS, Framer Motion.
+### Union Zalor (React + Vite)
 
----
+Web app con rutas, landing y panel admin simulado (localStorage).
 
-## 🎓 Formación y Certificaciones
+- Estado: proyecto local
+- Stack: React, React Router, Vite, Tailwind, Framer Motion
 
-* **Ingeniería en Inteligencia Artificial** - ESCOM, Instituto Politécnico Nacional.
-* **Certificaciones Técnicas (2026):**
-  * Modelos Generativos
-  * SQL
-  * C con Estructuras de Datos
-  * JavaScript
-* **Entrenamiento en Curso:** Programa de formación Oracle Java.
+## Practicas (universidad)
 
-## 🏆 Hackathones y Eventos
+- Teoria de computo: https://github.com/Jesus26032005/Teoria-computo
+- Aprendizaje maquina: https://github.com/Jesus26032005/Aprendizaje-maquina
+- Tecnologias de lenguaje natural: https://github.com/Jesus26032005/Tecnologias-de-lenguaje-natural
+- Algoritmos bioinspirados: https://github.com/Jesus26032005/Algoritmos-bioinspirados
+- Vision artificial: https://github.com/Jesus26032005/Vision-artificial
+- Fundamentos de IA: https://github.com/Jesus26032005/Fundamentos-de-Inteligencia-Artificial
 
-* **Talent Land México (2026)** - Exploración y desarrollo de soluciones tecnológicas.
-* **HackODS (2026)** - Participación activa en el Instituto de Geofísica.
+## Portfolio (local)
 
----
+Genere un portafolio desde mis proyectos locales (51 proyectos detectados en `~/Documentos`).
 
-## 🎒 Repositorios de Especialidad (ESCOM)
-
-* 🧠 [Aprendizaje Máquina](https://github.com/Jesus26032005/Aprendizaje-maquina)
-* 👁️ [Visión Artificial](https://github.com/Jesus26032005/Vision-artificial)
-* 🧬 [Algoritmos Bioinspirados](https://github.com/Jesus26032005/Algoritmos-bioinspirados) - *Proyectos de simulación física e inteligencia de enjambre.*
-* 🗣️ [Tecnologías de Lenguaje Natural](https://github.com/Jesus26032005/Tecnologias-de-lenguaje-natural)
-* 🤖 [Fundamentos de Inteligencia Artificial](https://github.com/Jesus26032005/Fundamentos-de-Inteligencia-Artificial)
-* 💻 [Teoría de Cómputo](https://github.com/Jesus26032005/Teoria-computo)
-
----
-
-## 📫 Contacto
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jesus26032005)
+- Fuente de datos: `portfolio-next/projects.json`
+- Sitio: `portfolio-next/` (Next.js + Tailwind + Framer Motion)
