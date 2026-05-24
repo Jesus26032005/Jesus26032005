@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zaddkiel%20De%20Jesús%20Martínez%20Alor&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Ingeniero%20en%20Inteligencia%20Artificial%20%40%20ESCOM-IPN&descAlignY=55&descSize=18"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=Computer+Vision+%26+Fullstack+Developer;Backend+FastAPI+%7C+Android+Nativo+%7C+Arch+Linux;Sistemas+Inteligentes+%26+Automatización;Mark-XXXIX+%7C+BitCafe+%7C+PracticasUnidas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hola%2C+soy+Zaddkiel+De+Jes%C3%BAs+Mart%C3%ADnez+Alor+%F0%9F%91%8B;Ingeniero+en+Inteligencia+Artificial+%40+ESCOM-IPN;Computer+Vision+%26+Fullstack+%7C+Arch+Linux;Automatizaci%C3%B3n+y+Sistemas+Inteligentes" alt="Typing SVG" />
 
 <br/>
 
@@ -35,11 +33,11 @@
 
 ```python
 class Zaddkiel:
-    ubicacion    = "México · ESCOM IPN → FIME UANL (movilidad)"
+    ubicacion    = "México · ESCOM IPN → FIME UANL (movilidad académica)"
     enfoque      = ["Computer Vision", "Backend APIs", "Android Nativo", "Arch Linux"]
-    proyecto_hoy = "Mark-XXXIX — asistente IA con Gemini API + ecosistema Python"
-    entorno      = "CachyOS / Arch Linux · Hyprland · Caelestia Shell · dotfiles propios"
+    actualmente  = "Optimizando rice CachyOS/Arch · Hyprland + Caelestia Shell"
     aprendiendo  = ["Java (Oracle/INFOTEC)", "Algoritmos Bioinspirados"]
+    preguntame   = ["Python", "Visión Artificial", "Autómatas", "MVVM con Tkinter/PyQt6"]
     fun_fact     = "Después de compilar el AUR: S.T.A.L.K.E.R. o Jurassic World Evolution 2 🦕"
 ```
 
@@ -64,10 +62,10 @@ class Zaddkiel:
 
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
 </p>
@@ -90,19 +88,27 @@ class Zaddkiel:
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLModel-009688?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-CC2927?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hyprland-00A8E8?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mercado%20Pago-009EE3?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
 </p>
+
+<details>
+<summary><b>Ver stack completo</b></summary>
+<br/>
+
+- **Backend & Web:** FastAPI, SQLModel, SQLAlchemy, Pydantic, JWT, WebSockets, PHP, Apache, HTML5, CSS3
+- **Desktop & Mobile:** PyQt6, ttkbootstrap, Tkinter (MVC), Jetpack Compose, Material 3, Hilt, Room, OkHttp, WorkManager
+- **Sistemas & Pagos:** Hyprland, Arch Linux, Fedora, Gentoo, Nix, Mercado Pago SDK, Git, Gradle, Render
+
+</details>
 
 ---
 
@@ -150,17 +156,6 @@ class Zaddkiel:
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
       <code>188 archivos · Complejidad media</code>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🤖 Mark-XXXIX — Asistente IA Personal <kbd>En desarrollo</kbd></h3>
-      <p>Integración de la <b>API de Gemini</b> con ecosistema Python. Asistente modular orientado a automatización inteligente y procesamiento de lenguaje natural para uso personal y académico.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      </p>
     </td>
   </tr>
 </table>
@@ -244,8 +239,6 @@ Modular      → scripts de automatización y config nativa multi-distro
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 *"El código estructurado no es solo funcional, es estético."*
 
