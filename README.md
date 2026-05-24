@@ -29,7 +29,7 @@
 
 ### 👨‍💻 Acerca de mí
 
-Construyendo sistemas inteligentes desde cero — APIs REST, aplicaciones desktop, Android nativo y automatización Linux.
+Construyendo sistemas inteligentes desde cero — APIs REST, aplicaciones desktop, Android nativo y automatización Linux puro.
 
 - 🔭 Desarrollando **Mark-XXXIX** con integración de la API de Gemini y ecosistema Python.
 - ⚙️ Optimizando mi entorno *rice* de **CachyOS / Arch Linux**, gestionando dotfiles con **Hyprland** y Caelestia Shell.
@@ -46,16 +46,14 @@ Construyendo sistemas inteligentes desde cero — APIs REST, aplicaciones deskto
   <summary><b>💻 Lenguajes de Programación</b> <i>(Haz clic para expandir)</i></summary>
   <br/>
   <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=prolog&logoColor=white" />
-    <img src="https://img.shields.io/badge/Lisp-3F3F3F?style=for-the-badge&logo=lisp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
   </p>
 </details>
 
@@ -87,7 +85,7 @@ Construyendo sistemas inteligentes desde cero — APIs REST, aplicaciones deskto
 - **Multi-capa** — BitCafe (backend API + clientes desktop + app mobile).
 - **API RESTful** — JWT, validación Pydantic, pasarela de pagos Mercado Pago.
 - **Despliegue producción** — Orientatec en Apache con logs de tráfico reales (2024-2026).
-- **Sistemas modulares** — scripts de automatización y configuración multi-distro.
+- **Sistemas modulares** — scripts de automatización y configuración nativa multi-distro.
 
 ---
 
@@ -96,25 +94,25 @@ Construyendo sistemas inteligentes desde cero — APIs REST, aplicaciones deskto
 <table>
   <tr>
     <td width="50%">
-      <h3>☕ BitCafe — <i>Sistema POS Multi-capa</i></h3>
-      <p>Backend FastAPI (JWT, WebSockets, Mercado Pago), clientes desktop PyQt6 (v2 MVC, v1 legacy), y app Android nativa con Jetpack Compose y WorkManager.</p>
+      <h3>☕ BitCafe</h3>
+      <p><b>Sistema POS Multi-capa.</b> Backend FastAPI (JWT, WebSockets, Mercado Pago), clientes desktop PyQt6 (MVC), y app Android nativa con Jetpack Compose y WorkManager.</p>
       <code>203 archivos · 15.7 MB · complejidad: alta</code>
     </td>
     <td width="50%">
-      <h3>👁️ PracticasUnidas — <i>CV Desktop</i></h3>
-      <p>App desktop MVC procesando imágenes con OpenCV. +30 operaciones: 12 filtros (mediana adaptativa, contraarmónico), 6 detectores de bordes (Sobel, Canny, Kirsch).</p>
+      <h3>👁️ PracticasUnidas</h3>
+      <p><b>CV Desktop.</b> App MVC procesando imágenes con OpenCV. +30 operaciones: 12 filtros (mediana adaptativa, contraarmónico), 6 detectores de bordes (Sobel, Canny, Kirsch).</p>
       <code>22 archivos · 6.1 MB · complejidad: alta</code>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🏫 Orientatec — <i>Plataforma Web</i></h3>
-      <p>Desplegada en producción (Apache). Mapa interactivo, autenticación multi-rol, panel admin, FAQ y base de datos espacial para POIs georreferenciados.</p>
+      <h3>🏫 Orientatec</h3>
+      <p><b>Plataforma Web.</b> Desplegada en producción (Apache). Mapa interactivo, autenticación multi-rol, panel admin, FAQ y base de datos espacial para POIs georreferenciados.</p>
       <code>178 archivos · 12.5 MB · complejidad: media</code>
     </td>
     <td width="50%">
-      <h3>🎮 Union Zalor — <i>Web Gaming</i></h3>
-      <p>Plataforma LAMP multi-página con autenticación de usuarios, secciones de música, juegos, horarios, reglas y sistema de soporte FAQ.</p>
+      <h3>🎮 Union Zalor</h3>
+      <p><b>Web Gaming.</b> Plataforma LAMP multi-página con autenticación de usuarios, secciones de música, juegos, horarios, reglas y sistema de soporte FAQ.</p>
       <code>188 archivos · complejidad: media</code>
     </td>
   </tr>
@@ -153,11 +151,12 @@ Construyendo sistemas inteligentes desde cero — APIs REST, aplicaciones deskto
 
 ### 📈 Analíticas de Código y Métricas de GitHub
 
-<p align="center">
-  <br>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jesus26032005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&v=10" alt="Zaddkiel's Github Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus26032005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=10" alt="Top Langs" />
-</p>
+<div align="center">
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jesus26032005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)](https://github.com/Jesus26032005)
+[![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus26032005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Jesus26032005)
+
+</div>
 
 <br/>
 
