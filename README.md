@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=80&lines=Hola%2C+soy+Zaddkiel+De+Jes%C3%BAs+Mart%C3%ADnez+Alor+👋;Ingeniero+en+Inteligencia+Artificial+@+ESCOM-IPN;Computer+Vision+%7C+Fullstack+Developer;Arch+Linux+%26+Hyprland+Ricer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=80&lines=Hola%2C+soy+Zaddkiel+De+Jes%C3%BAs+Mart%C3%ADnez+Alor+👋;Ingeniero+en+Inteligencia+Artificial+@+ESCOM-IPN;Computer+Vision+%26+Fullstack+%7C+Arch+Linux;Automatizaci%C3%B3n+y+Sistemas+Inteligentes" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://github.com/Jesus26032005">
@@ -40,7 +40,7 @@ Construyendo sistemas inteligentes desde cero — APIs REST, aplicaciones deskto
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Arsenal Tecnológico
 
 <details>
   <summary><b>💻 Lenguajes de Programación</b> <i>(Haz clic para expandir)</i></summary>
@@ -81,25 +81,35 @@ Construyendo sistemas inteligentes desde cero — APIs REST, aplicaciones deskto
 
 ---
 
+### 📐 Arquitectura de Software
+
+- **MVC** — PracticasUnidas (Modelo-Vista-Controlador con 8 módulos de vista).
+- **Multi-capa** — BitCafe (backend API + clientes desktop + app mobile).
+- **API RESTful** — JWT, validación Pydantic, pasarela de pagos Mercado Pago.
+- **Despliegue producción** — Orientatec en Apache con logs de tráfico reales (2024-2026).
+- **Sistemas modulares** — scripts de automatización y configuración multi-distro.
+
+---
+
 ### 🚀 Proyectos Destacados
 
 <table>
   <tr>
     <td width="50%">
       <h3>☕ BitCafe — <i>Sistema POS Multi-capa</i></h3>
-      <p>Backend FastAPI (JWT, Mercado Pago), clientes desktop PyQt6 (v2 MVC, v1 legacy), y app Android nativa con Jetpack Compose, Hilt DI, Room y WorkManager.</p>
+      <p>Backend FastAPI (JWT, WebSockets, Mercado Pago), clientes desktop PyQt6 (v2 MVC, v1 legacy), y app Android nativa con Jetpack Compose y WorkManager.</p>
       <code>203 archivos · 15.7 MB · complejidad: alta</code>
     </td>
     <td width="50%">
       <h3>👁️ PracticasUnidas — <i>CV Desktop</i></h3>
-      <p>App desktop MVC. +30 operaciones: 12 filtros (mediana adaptativa, contraarmónico), 6 detectores de bordes (Sobel, Canny, Kirsch), ecualización de histograma y morfología.</p>
+      <p>App desktop MVC procesando imágenes con OpenCV. +30 operaciones: 12 filtros (mediana adaptativa, contraarmónico), 6 detectores de bordes (Sobel, Canny, Kirsch).</p>
       <code>22 archivos · 6.1 MB · complejidad: alta</code>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🏫 Orientatec — <i>Plataforma Web</i></h3>
-      <p>Desplegada en producción (Apache). Mapa interactivo, autenticación multi-rol, panel admin, sistema FAQ y base de datos espacial para POIs georreferenciados.</p>
+      <p>Desplegada en producción (Apache). Mapa interactivo, autenticación multi-rol, panel admin, FAQ y base de datos espacial para POIs georreferenciados.</p>
       <code>178 archivos · 12.5 MB · complejidad: media</code>
     </td>
     <td width="50%">
@@ -112,65 +122,57 @@ Construyendo sistemas inteligentes desde cero — APIs REST, aplicaciones deskto
 
 ---
 
-### 📐 Arquitectura de Software
+### 🎓 Educación, Idiomas y Certificaciones
 
-- **MVC** — PracticasUnidas (Modelo-Vista-Controlador con 8 módulos de vista).
-- **Multi-capa** — BitCafe (backend API + clientes desktop + app mobile).
-- **API RESTful** — JWT, validación Pydantic, pasarela de pagos Mercado Pago.
-- **Despliegue producción** — Orientatec en Apache con logs de tráfico reales (2024-2026).
-- **Sistemas modulares** — scripts de automatización y configuración multi-distro.
-
----
-
-### 🎓 Educación y Formación
-
-**Ingeniería en Inteligencia Artificial** — *ESCOM IPN (En curso - 2027)*
-
-<details>
-  <summary><b>📚 Áreas de estudio destacadas</b></summary>
-  <br/>
-  <ul>
-    <li><b>Inteligencia Artificial:</b> Machine Learning, Procesamiento Digital de Imágenes, Tecnologías de Lenguaje Natural, Algoritmos Bioinspirados, Visión Artificial.</li>
-    <li><b>Ciencias de la Computación:</b> Teoría de la Computación (DFA/NFA, NetworkX), Algoritmos y Estructuras de Datos (C, memoria dinámica), Paradigmas de Programación.</li>
-    <li><b>Ingeniería de Software:</b> Análisis y Diseño de Sistemas (MVC, Agile, PMI), Bases de Datos (SQL, PostgreSQL).</li>
-    <li><b>Matemáticas Avanzadas:</b> Probabilidad, Estadística, Álgebra lineal, Cálculo vectorial, Transformadas.</li>
-  </ul>
-</details>
+| 🏛️ Academia | 📚 Áreas de estudio | 🗣️ Idiomas |
+| :--- | :--- | :--- |
+| **ESCOM IPN**<br>Ingeniería en IA (2027) | <details><summary><i>Haz clic para ver materias</i></summary>• ML (Random Forest, Naive Bayes)<br>• PDI (OpenCV, FFT, DCT)<br>• Algoritmos Bioinspirados (DEAP)<br>• Teoría de la Computación (DFA/NFA)<br>• Bases de Datos Relacionales<br>• C (Estructuras de Datos, Memoria)</details> | **Español:** Nativo<br>**Inglés:** B1/B2 Académico<br>**Italiano:** Básico (CELEX) |
 
 <br/>
 
-**Idiomas:**
-- 🟢 **Español:** Nativo
-- 🔵 **Inglés:** B1 - B2
-- 🟠 **Italiano:** Aprendiendo (CELEX)
-
----
-
-### 📜 Certificaciones
-
+<details>
+  <summary><b>📜 Tabla Completa de Certificaciones (10 totales)</b></summary>
+  <br/>
+  
 | Plataforma | Certificación | Fecha | Credencial |
 |-----------|--------------|-------|------------|
 | Sololearn | Introducción a Python | May 2026 | `CC-5Y1KF0DL` |
 | Kaggle | Python | May 2026 | — |
 | Sololearn | Introducción a Java | May 2026 | `CC-UNWIXCWO` |
-| Codecademy | Intro to Large Language Models (LLMs) Course | May 2026 | — |
-| Codecademy | Intro to Generative AI Course | May 2026 | — |
-| Codecademy | Learn JavaScript Course | May 2026 | — |
-| Cisco | Python Essentials 1 | May 2026 | — |
+| Codecademy | Intro to LLMs Course | May 2026 | — |
 | Udemy | Universidad JavaScript - De Cero a Experto! | Sep 2025 | `UC-7081b50d-...` |
 | Udemy | Programación en C de Cero a Experto con EDD | Sep 2025 | `UC-0fe28139-...` |
 | Udemy | Máster en SQL Server: Profesional | Feb 2025 | `UC-7e7a001b-...` |
+| Codecademy | Intro to Generative AI Course | May 2026 | — |
+| Codecademy | Learn JavaScript Course | May 2026 | — |
+| Cisco | Python Essentials 1 | May 2026 | — |
+
+</details>
 
 ---
-### 📈 Estadísticas Generales
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jesus26032005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus26032005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
+### 📈 Analíticas de Código y Métricas de GitHub
+
+<p align="center">
+  <br>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jesus26032005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&v=10" alt="Zaddkiel's Github Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus26032005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=10" alt="Top Langs" />
+</p>
+
+<br/>
+
+<details open>
+  <summary><b>💻 Estadísticas Manuales de Proyectos</b></summary>
+  <br/>
+  
+| Proyectos | Archivos fuente | Lenguajes | Alta complejidad | Tamaño total | Certificaciones |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **6** | **658** | **12** | **2** | **~34.7 MB** | **10** |
+
+</details>
 
 <br>
 
-| 💻 Proyectos | 📄 Archivos fuente | 🌐 Lenguajes | ⚙️ Alta complejidad | 📦 Tamaño total | 🏅 Certificaciones |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **6** | **658** | **12** | **2** | **~34.7 MB** | **10** |**
+<p align="center">
+  <i>"El código estructurado no es solo funcional, es estético."</i>
+</p>
