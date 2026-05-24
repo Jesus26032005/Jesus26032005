@@ -163,7 +163,7 @@ Construyendo sistemas inteligentes desde cero — APIs REST, aplicaciones deskto
 
 ---
 
-### 📈 Estadísticas Generales
+**### 📈 Estadísticas Generales
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jesus26032005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
@@ -174,4 +174,4 @@ Construyendo sistemas inteligentes desde cero — APIs REST, aplicaciones deskto
 
 | 💻 Proyectos | 📄 Archivos fuente | 🌐 Lenguajes | ⚙️ Alta complejidad | 📦 Tamaño total | 🏅 Certificaciones |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **6** | **658** | **12** | **2** | **~34.7 MB** | **10** |
+| **6** | **658** | **12** | **2** | **~34.7 MB** | **10** |**
