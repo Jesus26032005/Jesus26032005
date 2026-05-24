@@ -178,7 +178,7 @@ Modular      → scripts de automatización y config nativa multi-distro
 
 | | |
 |---|---|
-| 🏛️ **ESCOM IPN** — Ingeniería en IA (graduación estimada 2027) | 🌍 **Idiomas:** Español nativo · Inglés B1/B2 · Italiano básico |
+| 🏛️ **ESCOM IPN** — Ingeniería en IA (graduación estimada 2028) | 🌍 **Idiomas:** Español nativo · Inglés B1/B2 · Italiano básico |
 | ✈️ Movilidad académica nacional → **FIME-UANL** (en proceso) | 🎯 **Track:** Oracle/INFOTEC Java · Algoritmos Bioinspirados |
 
 <details>
