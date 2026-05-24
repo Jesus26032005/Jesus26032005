@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=80&lines=Hola%2C+soy+Zaddkiel+De+Jes%C3%BAs+Mart%C3%ADnez+Alor+👋;Ingeniero+en+Inteligencia+Artificial+@+ESCOM-IPN;Especialista+en+Computer+Vision+%26+Fullstack;Arch+Linux+%26+Hyprland+Ricer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&height=80&lines=Hola%2C+soy+Zaddkiel+De+Jes%C3%BAs+Mart%C3%ADnez+Alor+👋;Ingeniero+en+Inteligencia+Artificial+@+ESCOM-IPN;Computer+Vision+%7C+Fullstack+Developer;Arch+Linux+%26+Hyprland+Ricer" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://github.com/Jesus26032005">
@@ -29,7 +29,7 @@
 
 ### 👨‍💻 Acerca de mí
 
-Diseñando arquitecturas robustas y construyendo sistemas inteligentes. Me especializo en llevar proyectos desde la lógica de bajo nivel hasta interfaces nativas.
+Construyendo sistemas inteligentes desde cero — APIs REST, aplicaciones desktop, Android nativo y automatización Linux.
 
 - 🔭 Desarrollando **Mark-XXXIX** con integración de la API de Gemini y ecosistema Python.
 - ⚙️ Optimizando mi entorno *rice* de **CachyOS / Arch Linux**, gestionando dotfiles con **Hyprland** y Caelestia Shell.
@@ -40,7 +40,7 @@ Diseñando arquitecturas robustas y construyendo sistemas inteligentes. Me espec
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+### 🛠️ Stack Tecnológico
 
 <details>
   <summary><b>💻 Lenguajes de Programación</b> <i>(Haz clic para expandir)</i></summary>
@@ -50,34 +50,33 @@ Diseñando arquitecturas robustas y construyendo sistemas inteligentes. Me espec
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logo=prolog&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lisp-3F3F3F?style=for-the-badge&logo=lisp&logoColor=white" />
   </p>
 </details>
 
 <details>
-  <summary><b>🧠 Inteligencia Artificial & Data Science</b> <i>(Haz clic para expandir)</i></summary>
+  <summary><b>🧠 IA, Computer Vision & NLP</b> <i>(Haz clic para expandir)</i></summary>
   <br/>
-  <p align="center">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/SciPy-8CAAEE?style=for-the-badge&logo=scipy&logoColor=white" />
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  </p>
+  <ul>
+    <li><b>Machine Learning:</b> scikit-learn (Random Forest, Naive Bayes, K-Means, PCA), DEAP (GA, GP), gplearn, Perceptron.</li>
+    <li><b>Computer Vision:</b> OpenCV, NumPy, SciPy, Matplotlib, Pillow — FFT/DCT, morfología, segmentación HSV.</li>
+    <li><b>NLP:</b> spaCy, NLTK, Gensim (Word2Vec), TF-IDF, SVD, t-SNE, clasificación de sentimientos.</li>
+  </ul>
 </details>
 
 <details>
   <summary><b>⚙️ Frameworks & Entorno de Desarrollo</b> <i>(Haz clic para expandir)</i></summary>
   <br/>
-  <p align="center">
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux_Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
+  <ul>
+    <li><b>Backend & Web:</b> FastAPI, SQLModel, SQLAlchemy, Pydantic, JWT, WebSockets, PHP, Apache, HTML5, CSS3.</li>
+    <li><b>Desktop & Mobile:</b> PyQt6, ttkbootstrap, Tkinter (MVC), Jetpack Compose, Material 3, Hilt, Room, OkHttp, WorkManager.</li>
+    <li><b>Sistemas & Pagos:</b> Hyprland, Arch Linux, Fedora, Gentoo, Nix, Mercado Pago SDK, Git, Gradle, Render.</li>
+  </ul>
 </details>
 
 ---
@@ -87,54 +86,92 @@ Diseñando arquitecturas robustas y construyendo sistemas inteligentes. Me espec
 <table>
   <tr>
     <td width="50%">
-      <h3>☕ <a href="#">BitCafe</a></h3>
-      <p><b>Arquitectura Multi-capa.</b> Backend <b>FastAPI</b> (WebSockets, JWT), clientes <b>PyQt6</b>, y app Android con <b>Jetpack Compose</b> y WorkManager para sincronización en tiempo real.</p>
+      <h3>☕ BitCafe — <i>Sistema POS Multi-capa</i></h3>
+      <p>Backend FastAPI (JWT, Mercado Pago), clientes desktop PyQt6 (v2 MVC, v1 legacy), y app Android nativa con Jetpack Compose, Hilt DI, Room y WorkManager.</p>
+      <code>203 archivos · 15.7 MB · complejidad: alta</code>
     </td>
     <td width="50%">
-      <h3>👁️ <a href="#">PracticasUnidas</a></h3>
-      <p><b>Computer Vision en Desktop.</b> App MVC procesando imágenes con <b>OpenCV</b>. Integración de filtros adaptativos, detectores (Canny, Kirsch) y transformadas (FFT/DCT).</p>
+      <h3>👁️ PracticasUnidas — <i>CV Desktop</i></h3>
+      <p>App desktop MVC. +30 operaciones: 12 filtros (mediana adaptativa, contraarmónico), 6 detectores de bordes (Sobel, Canny, Kirsch), ecualización de histograma y morfología.</p>
+      <code>22 archivos · 6.1 MB · complejidad: alta</code>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🤖 <a href="#">Mark-XXXIX</a></h3>
-      <p><b>Integración LLM.</b> Desarrollo Python orientado a la automatización e interactividad utilizando la API nativa de Gemini.</p>
+      <h3>🏫 Orientatec — <i>Plataforma Web</i></h3>
+      <p>Desplegada en producción (Apache). Mapa interactivo, autenticación multi-rol, panel admin, sistema FAQ y base de datos espacial para POIs georreferenciados.</p>
+      <code>178 archivos · 12.5 MB · complejidad: media</code>
     </td>
     <td width="50%">
-      <h3>🏫 <a href="#">Orientatec</a></h3>
-      <p><b>Plataforma Web (Producción).</b> Sistema LAMP (Apache/PHP/MySQL) con base de datos espacial, mapas interactivos del campus y RBAC.</p>
+      <h3>🎮 Union Zalor — <i>Web Gaming</i></h3>
+      <p>Plataforma LAMP multi-página con autenticación de usuarios, secciones de música, juegos, horarios, reglas y sistema de soporte FAQ.</p>
+      <code>188 archivos · complejidad: media</code>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 Analíticas de Código
+### 📐 Arquitectura de Software
+
+- **MVC** — PracticasUnidas (Modelo-Vista-Controlador con 8 módulos de vista).
+- **Multi-capa** — BitCafe (backend API + clientes desktop + app mobile).
+- **API RESTful** — JWT, validación Pydantic, pasarela de pagos Mercado Pago.
+- **Despliegue producción** — Orientatec en Apache con logs de tráfico reales (2024-2026).
+- **Sistemas modulares** — scripts de automatización y configuración multi-distro.
+
+---
+
+### 🎓 Educación y Formación
+
+**Ingeniería en Inteligencia Artificial** — *ESCOM IPN (En curso - 2027)*
+
+<details>
+  <summary><b>📚 Áreas de estudio destacadas</b></summary>
+  <br/>
+  <ul>
+    <li><b>Inteligencia Artificial:</b> Machine Learning, Procesamiento Digital de Imágenes, Tecnologías de Lenguaje Natural, Algoritmos Bioinspirados, Visión Artificial.</li>
+    <li><b>Ciencias de la Computación:</b> Teoría de la Computación (DFA/NFA, NetworkX), Algoritmos y Estructuras de Datos (C, memoria dinámica), Paradigmas de Programación.</li>
+    <li><b>Ingeniería de Software:</b> Análisis y Diseño de Sistemas (MVC, Agile, PMI), Bases de Datos (SQL, PostgreSQL).</li>
+    <li><b>Matemáticas Avanzadas:</b> Probabilidad, Estadística, Álgebra lineal, Cálculo vectorial, Transformadas.</li>
+  </ul>
+</details>
+
+<br/>
+
+**Idiomas:**
+- 🟢 **Español:** Nativo
+- 🔵 **Inglés:** B1 - B2
+- 🟠 **Italiano:** Aprendiendo (CELEX)
+
+---
+
+### 📜 Certificaciones
+
+| Plataforma | Certificación | Fecha | Credencial |
+|-----------|--------------|-------|------------|
+| Sololearn | Introducción a Python | May 2026 | `CC-5Y1KF0DL` |
+| Kaggle | Python | May 2026 | — |
+| Sololearn | Introducción a Java | May 2026 | `CC-UNWIXCWO` |
+| Codecademy | Intro to Large Language Models (LLMs) Course | May 2026 | — |
+| Codecademy | Intro to Generative AI Course | May 2026 | — |
+| Codecademy | Learn JavaScript Course | May 2026 | — |
+| Cisco | Python Essentials 1 | May 2026 | — |
+| Udemy | Universidad JavaScript - De Cero a Experto! | Sep 2025 | `UC-7081b50d-...` |
+| Udemy | Programación en C de Cero a Experto con EDD | Sep 2025 | `UC-0fe28139-...` |
+| Udemy | Máster en SQL Server: Profesional | Feb 2025 | `UC-7e7a001b-...` |
+
+---
+
+### 📈 Estadísticas Generales
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jesus26032005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus26032005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
-<!-- 
-=========================================
-  ESPACIO PARA ANIMACIÓN DE LA SERPIENTE
-  (Requiere configurar GitHub Actions)
-=========================================
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Jesus26032005/Jesus26032005/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div> 
--->
+<br>
 
----
-
-### 🎓 Educación, Idiomas y Certificaciones
-
-| 🏛️ Academia | 📜 Certificaciones Destacadas | 🗣️ Idiomas |
-| :--- | :--- | :--- |
-| **ESCOM IPN**<br>Ingeniería en IA (2027) | • Kaggle Python (May '26)<br>• Oracle Java Track<br>• Google Cloud Computing Foundations | **Español:** Nativo<br>**Inglés:** B1/B2 Académico<br>**Italiano:** Básico (CELEX) |
-
-<p align="center">
-  <br>
-  <i>"El código estructurado no es solo funcional, es estético."</i>
-</p>
+| 💻 Proyectos | 📄 Archivos fuente | 🌐 Lenguajes | ⚙️ Alta complejidad | 📦 Tamaño total | 🏅 Certificaciones |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **6** | **658** | **12** | **2** | **~34.7 MB** | **10** |
