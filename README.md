@@ -33,7 +33,7 @@
 
 ```python
 class Zaddkiel:
-    ubicacion    = "México · ESCOM IPN → FIME UANL (movilidad académica)"
+    ubicacion    = "México · ESCOM IPN
     enfoque      = ["Computer Vision", "Backend APIs", "Android Nativo", "Arch Linux"]
     actualmente  = "Optimizando rice CachyOS/Arch · Hyprland + Caelestia Shell"
     aprendiendo  = ["Java (Oracle/INFOTEC)", "Algoritmos Bioinspirados"]
@@ -179,7 +179,7 @@ Modular      → scripts de automatización y config nativa multi-distro
 | | |
 |---|---|
 | 🏛️ **ESCOM IPN** — Ingeniería en IA (graduación estimada 2028) | 🌍 **Idiomas:** Español nativo · Inglés B1/B2 · Italiano básico |
-| ✈️ Movilidad académica nacional → **FIME-UANL** (en proceso) | 🎯 **Track:** Oracle/INFOTEC Java · Algoritmos Bioinspirados |
+| Fan de linux | 🎯 **Track:** Oracle/INFOTEC Java · Algoritmos Bioinspirados |
 
 <details>
 <summary><b>📚 Materias clave en ESCOM</b></summary>
