@@ -33,7 +33,7 @@
 
 ```python
 class Zaddkiel:
-    ubicacion    = "México · ESCOM IPN
+    ubicacion    = "México · ESCOM IPN"
     enfoque      = ["Computer Vision", "Backend APIs", "Android Nativo", "Arch Linux"]
     actualmente  = "Optimizando rice CachyOS/Arch · Hyprland + Caelestia Shell"
     aprendiendo  = ["Java (Oracle/INFOTEC)", "Algoritmos Bioinspirados"]
